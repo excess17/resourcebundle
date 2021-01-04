@@ -1,0 +1,5 @@
+code: bundle123
+description: bundle 123
+components:
+  assets:
+    - assets/entandoatplan/entandoatplan-descriptor.yaml
